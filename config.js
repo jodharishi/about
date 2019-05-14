@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Rishivardhan', // <title>
-  manifestName: 'Identity',
-  manifestShortName: 'Landing', // max 12 characters
+  manifestName: 'Rishivardhan Profile',
+  manifestShortName: 'Profile', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
