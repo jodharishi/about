@@ -16,7 +16,12 @@ module.exports = {
       icon: 'fa-github',
       name: 'Github',
       url: 'https://github.com/jodharishi',
-    }, 
+    },
+    {
+      icon: 'fa-linkedin',
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/rishivardhan-jodha-ab27ba59/',
+    },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
