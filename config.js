@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   authorName: 'Rishivardhan Jodha',
-  heading: 'Web Developer',
+  heading: 'Engineering Manager',
   pathPrefix: "/about/",
   // social
   socialLinks: [
